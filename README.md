@@ -1,2 +1,4 @@
 # rapidjson_wrapper
-An elegant &amp; easy-to-use wrapper of rapidjson
+An elegant & easy-to-use wrapper for [rapidjson](https://github.com/miloyip/rapidjson)
+
+Written in C++11
